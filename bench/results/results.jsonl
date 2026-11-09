@@ -1,0 +1,360 @@
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u01", "expect_paise": 15000, "transcript": "शर्मा जी को 150 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u01", "expect_paise": 15000, "transcript": "शर्मा जी को डेढ़ ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u01", "expect_paise": 15000, "transcript": "शर्मा जी को 150 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को डेढ़ ₹100 उधार लिख 2", "snr_db": 60.00506576626897, "dur_s": 3.384}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u01", "expect_paise": 15000, "transcript": "शर्मा जी को 150 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u01", "expect_paise": 15000, "transcript": "शर्मा जी को डेढ़ ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u01", "expect_paise": 15000, "transcript": "शर्मा जी को 150 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को डेढ़ ₹100 उधार लिख 2", "snr_db": 16.73217778826742, "dur_s": 3.384}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u01", "expect_paise": 15000, "transcript": "शर्मा जी को 150 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u01", "expect_paise": 15000, "transcript": "शर्मा जी को डेढ़ ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u01", "expect_paise": 15000, "transcript": "शर्मा जी को 150 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को डेढ़ ₹100 उधार लिख 2", "snr_db": 11.444791361864787, "dur_s": 3.384}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u01", "expect_paise": 15000, "transcript": "शर्मा जी को 150 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u01", "expect_paise": 15000, "transcript": "शर्मा जी को डेढ़ ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u01", "expect_paise": 15000, "transcript": "शर्मा जी को 150 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को डेढ़ ₹100 उधार लिख 2", "snr_db": 16.696446213542128, "dur_s": 3.384}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u02", "expect_paise": 25000, "transcript": "वर्मा जी को 250 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u02", "expect_paise": 25000, "transcript": "वर्मा जी को ढाई ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u02", "expect_paise": 25000, "transcript": "वर्मा जी को 250 रुपये उधार लिख दो।", "transcript_b": "वर्मा जी को ढाई ₹100 उधार लिख 2", "snr_db": 62.967050026011684, "dur_s": 3.264}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u02", "expect_paise": 25000, "transcript": "वर्मा जी को 250 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u02", "expect_paise": 25000, "transcript": "वर्मा जी को ढाई ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u02", "expect_paise": 25000, "transcript": "वर्मा जी को 250 रुपये उधार लिख दो।", "transcript_b": "वर्मा जी को ढाई ₹100 उधार लिख 2", "snr_db": 17.99896653809102, "dur_s": 3.264}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u02", "expect_paise": 25000, "transcript": "वर्मा जी को 250 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u02", "expect_paise": 25000, "transcript": "वर्मा जी को ढाई ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u02", "expect_paise": 25000, "transcript": "वर्मा जी को 250 रुपये उधार लिख दो।", "transcript_b": "वर्मा जी को ढाई ₹100 उधार लिख 2", "snr_db": 12.132450809722869, "dur_s": 3.264}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u02", "expect_paise": 25000, "transcript": "वर्मा जी को 250 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u02", "expect_paise": 25000, "transcript": "वर्मा जी को ढाई ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u02", "expect_paise": 25000, "transcript": "वर्मा जी को 250 रुपये उधार लिख दो।", "transcript_b": "वर्मा जी को ढाई ₹100 उधार लिख 2", "snr_db": 17.94942522030453, "dur_s": 3.264}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u03", "expect_paise": 12500, "transcript": "गुप्ता जी को 125 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u03", "expect_paise": 12500, "transcript": "गुप्ता जी को सवा ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u03", "expect_paise": 12500, "transcript": "गुप्ता जी को 125 रुपये उधार लिख दो।", "transcript_b": "गुप्ता जी को सवा ₹100 उधार लिख 2", "snr_db": 56.271700987903685, "dur_s": 3.312}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u03", "expect_paise": 12500, "transcript": "गुप्ता जी को 125 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u03", "expect_paise": 12500, "transcript": "गुप्ता जी को सवा ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u03", "expect_paise": 12500, "transcript": "गुप्ता जी को 125 रुपये उधार लिख दो।", "transcript_b": "गुप्ता जी को सवा ₹100 उधार लिख 2", "snr_db": 21.71962575975249, "dur_s": 3.312}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u03", "expect_paise": 12500, "transcript": "गुप्ता जी को 125 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u03", "expect_paise": 12500, "transcript": "गुप्ता जी को सवा ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u03", "expect_paise": 12500, "transcript": "गुप्ता जी को 125 रुपये उधार लिख दो।", "transcript_b": "गुप्ता जी को सवा ₹100 उधार लिख 2", "snr_db": 13.652653064094192, "dur_s": 3.312}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u03", "expect_paise": 12500, "transcript": "गुप्ता जी को 1,250 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u03", "expect_paise": 12500, "transcript": "गुप्ता जी को सवा ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u03", "expect_paise": 12500, "transcript": "गुप्ता जी को 1,250 रुपये उधार लिख दो।", "transcript_b": "गुप्ता जी को सवा ₹100 उधार लिख 2", "snr_db": 21.69031949053819, "dur_s": 3.312}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u04", "expect_paise": 17500, "transcript": "यादव जी को 1,750 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u04", "expect_paise": 17500, "transcript": "यादव जी को पौने ₹200 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u04", "expect_paise": 17500, "transcript": "यादव जी को 1,750 रुपये उधार लिख दो।", "transcript_b": "यादव जी को पौने ₹200 उधार लिख 2", "snr_db": 52.275745850442476, "dur_s": 3.648}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u04", "expect_paise": 17500, "transcript": "यादव जी को 175 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u04", "expect_paise": 17500, "transcript": "यादव जी को पौने ₹200 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u04", "expect_paise": 17500, "transcript": "यादव जी को 175 रुपये उधार लिख दो।", "transcript_b": "यादव जी को पौने ₹200 उधार लिख 2", "snr_db": 17.078363159235504, "dur_s": 3.648}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u04", "expect_paise": 17500, "transcript": "यादव जी को 175 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u04", "expect_paise": 17500, "transcript": "यादव जी को पहले ₹200 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u04", "expect_paise": 17500, "transcript": "यादव जी को 175 रुपये उधार लिख दो।", "transcript_b": "यादव जी को पहले ₹200 उधार लिख 2", "snr_db": 10.31888959381127, "dur_s": 3.648}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u04", "expect_paise": 17500, "transcript": "यादव जी को 1,750 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u04", "expect_paise": 17500, "transcript": "यादव जी को पौने ₹200 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u04", "expect_paise": 17500, "transcript": "यादव जी को 1,750 रुपये उधार लिख दो।", "transcript_b": "यादव जी को पौने ₹200 उधार लिख 2", "snr_db": 17.07710599577324, "dur_s": 3.648}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u05", "expect_paise": 35000, "transcript": "मिश्रा जी को 350 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u05", "expect_paise": 35000, "transcript": "मिश्रा जी 03:30 ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u05", "expect_paise": 35000, "transcript": "मिश्रा जी को 350 रुपये उधार लिख दो।", "transcript_b": "मिश्रा जी 03:30 ₹100 उधार लिख 2", "snr_db": 56.493411777693375, "dur_s": 3.672}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u05", "expect_paise": 35000, "transcript": "मिश्रा जी को 350 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u05", "expect_paise": 35000, "transcript": "मिश्रा जी 03:30 ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u05", "expect_paise": 35000, "transcript": "मिश्रा जी को 350 रुपये उधार लिख दो।", "transcript_b": "मिश्रा जी 03:30 ₹100 उधार लिख 2", "snr_db": 17.59878656510662, "dur_s": 3.672}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u05", "expect_paise": 35000, "transcript": "मिश्रा जी को 350 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u05", "expect_paise": 35000, "transcript": "मिश्रा जी 03:30 ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u05", "expect_paise": 35000, "transcript": "मिश्रा जी को 350 रुपये उधार लिख दो।", "transcript_b": "मिश्रा जी 03:30 ₹100 उधार लिख 2", "snr_db": 11.827861735931112, "dur_s": 3.672}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u05", "expect_paise": 35000, "transcript": "मिश्रा जी को 350 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u05", "expect_paise": 35000, "transcript": "मिश्रा जी पर 03:30 ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u05", "expect_paise": 35000, "transcript": "मिश्रा जी को 350 रुपये उधार लिख दो।", "transcript_b": "मिश्रा जी पर 03:30 ₹100 उधार लिख 2", "snr_db": 17.54157712580366, "dur_s": 3.672}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u06", "expect_paise": 150000, "transcript": "शर्मा जी को 1,500 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u06", "expect_paise": 150000, "transcript": "शर्मा जी को डेढ़ हजार रुपये उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u06", "expect_paise": 150000, "transcript": "शर्मा जी को 1,500 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को डेढ़ हजार रुपये उधार लिख 2", "snr_db": 55.57525495733502, "dur_s": 3.576}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u06", "expect_paise": 150000, "transcript": "शर्मा जी को 1500 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u06", "expect_paise": 150000, "transcript": "शर्मा जी को डेढ़ हज़ार रुपये उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u06", "expect_paise": 150000, "transcript": "शर्मा जी को 1500 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को डेढ़ हज़ार रुपये उधार लिख 2", "snr_db": 18.022603191374294, "dur_s": 3.576}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u06", "expect_paise": 150000, "transcript": "वरना जी को 1500 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u06", "expect_paise": 150000, "transcript": "शर्मा जी को डेढ़ हजार रुपये उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u06", "expect_paise": 150000, "transcript": "वरना जी को 1500 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को डेढ़ हजार रुपये उधार लिख 2", "snr_db": 10.872132992336216, "dur_s": 3.576}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u06", "expect_paise": 150000, "transcript": "शर्मा जी को 1,500 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u06", "expect_paise": 150000, "transcript": "शर्मा जी को डेढ़ हजार रुपये उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u06", "expect_paise": 150000, "transcript": "शर्मा जी को 1,500 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को डेढ़ हजार रुपये उधार लिख 2", "snr_db": 18.016019615387844, "dur_s": 3.576}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u07", "expect_paise": 250000, "transcript": "पटेल जी को 2,500 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u07", "expect_paise": 250000, "transcript": "पटेल जी को ढाई हजार रुपये उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u07", "expect_paise": 250000, "transcript": "पटेल जी को 2,500 रुपये उधार लिख दो।", "transcript_b": "पटेल जी को ढाई हजार रुपये उधार लिख 2", "snr_db": 59.72097841585004, "dur_s": 3.48}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u07", "expect_paise": 250000, "transcript": "पटेल जी को 2500 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u07", "expect_paise": 250000, "transcript": "पटेल जी को ढाई हजार रुपये उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u07", "expect_paise": 250000, "transcript": "पटेल जी को 2500 रुपये उधार लिख दो।", "transcript_b": "पटेल जी को ढाई हजार रुपये उधार लिख 2", "snr_db": 15.297579108827115, "dur_s": 3.48}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u07", "expect_paise": 250000, "transcript": "पटेल जी को 2000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u07", "expect_paise": 250000, "transcript": "पटेल जी को ढाई हजार रुपये उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u07", "expect_paise": 250000, "transcript": "पटेल जी को 2000 रुपये उधार लिख दो।", "transcript_b": "पटेल जी को ढाई हजार रुपये उधार लिख 2", "snr_db": 9.922015791629896, "dur_s": 3.48}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u07", "expect_paise": 250000, "transcript": "पटेल जी को 2,500 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u07", "expect_paise": 250000, "transcript": "पटेल जी को ढाई हजार रुपये उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u07", "expect_paise": 250000, "transcript": "पटेल जी को 2,500 रुपये उधार लिख दो।", "transcript_b": "पटेल जी को ढाई हजार रुपये उधार लिख 2", "snr_db": 15.204272552594954, "dur_s": 3.48}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u08", "expect_paise": 12500000, "transcript": "सिंह जी को 1,25,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u08", "expect_paise": 12500000, "transcript": "सिंह जी को सवा लाख रुपये उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u08", "expect_paise": 12500000, "transcript": "सिंह जी को 1,25,000 रुपये उधार लिख दो।", "transcript_b": "सिंह जी को सवा लाख रुपये उधार लिख 2", "snr_db": 60.868327796100694, "dur_s": 3.336}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u08", "expect_paise": 12500000, "transcript": "सिंह जी को 1,25,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u08", "expect_paise": 12500000, "transcript": "सिंह जी को सवा लाख रुपये उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u08", "expect_paise": 12500000, "transcript": "सिंह जी को 1,25,000 रुपये उधार लिख दो।", "transcript_b": "सिंह जी को सवा लाख रुपये उधार लिख 2", "snr_db": 21.05448060834538, "dur_s": 3.336}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u08", "expect_paise": 12500000, "transcript": "सिंह जी को 1,25,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u08", "expect_paise": 12500000, "transcript": "सिंह जी पर सवा लाख रुपए उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u08", "expect_paise": 12500000, "transcript": "सिंह जी को 1,25,000 रुपये उधार लिख दो।", "transcript_b": "सिंह जी पर सवा लाख रुपए उधार लिख 2", "snr_db": 13.106428561795964, "dur_s": 3.336}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u08", "expect_paise": 12500000, "transcript": "पिंकी को 1,25,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u08", "expect_paise": 12500000, "transcript": "सिंह जी को सवा लाख रुपये उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u08", "expect_paise": 12500000, "transcript": "पिंकी को 1,25,000 रुपये उधार लिख दो।", "transcript_b": "सिंह जी को सवा लाख रुपये उधार लिख 2", "snr_db": 21.073380184339857, "dur_s": 3.336}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u09", "expect_paise": 25000000, "transcript": "दास जी को 2,50,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u09", "expect_paise": 25000000, "transcript": "दास जी को ₹2,50,000 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u09", "expect_paise": 25000000, "transcript": "दास जी को 2,50,000 रुपये उधार लिख दो।", "transcript_b": "दास जी को ₹2,50,000 उधार लिख 2", "snr_db": 42.697527515641305, "dur_s": 4.152}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u09", "expect_paise": 25000000, "transcript": "दास जी को 2,50,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u09", "expect_paise": 25000000, "transcript": "दास जी को ₹2,50,000 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u09", "expect_paise": 25000000, "transcript": "दास जी को 2,50,000 रुपये उधार लिख दो।", "transcript_b": "दास जी को ₹2,50,000 उधार लिख 2", "snr_db": 17.626909501925205, "dur_s": 4.152}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u09", "expect_paise": 25000000, "transcript": "दास जी को 2,50,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u09", "expect_paise": 25000000, "transcript": "दास जी को ₹2,50,000 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u09", "expect_paise": 25000000, "transcript": "दास जी को 2,50,000 रुपये उधार लिख दो।", "transcript_b": "दास जी को ₹2,50,000 उधार लिख 2", "snr_db": 11.244734262954466, "dur_s": 4.152}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u09", "expect_paise": 25000000, "transcript": "डाक टीम को 2,50,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u09", "expect_paise": 25000000, "transcript": "दास जी को ₹2,50,000 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u09", "expect_paise": 25000000, "transcript": "डाक टीम को 2,50,000 रुपये उधार लिख दो।", "transcript_b": "दास जी को ₹2,50,000 उधार लिख 2", "snr_db": 17.757172968434546, "dur_s": 4.152}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u10", "expect_paise": 7544000, "transcript": "साहूह जी को 75,440 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u10", "expect_paise": 7544000, "transcript": "साहू जी को ₹75,440 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u10", "expect_paise": 7544000, "transcript": "साहूह जी को 75,440 रुपये उधार लिख दो।", "transcript_b": "साहू जी को ₹75,440 उधार लिख 2", "snr_db": 68.96658860654298, "dur_s": 5.232}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u10", "expect_paise": 7544000, "transcript": "साहु जी को 75,440 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u10", "expect_paise": 7544000, "transcript": "साहू जी को ₹75,440 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u10", "expect_paise": 7544000, "transcript": "साहु जी को 75,440 रुपये उधार लिख दो।", "transcript_b": "साहू जी को ₹75,440 उधार लिख 2", "snr_db": 20.311255335257023, "dur_s": 5.232}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u10", "expect_paise": 7544000, "transcript": "राहु जी को 75,440 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u10", "expect_paise": 7544000, "transcript": "साहू जी को ₹75,440 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u10", "expect_paise": 7544000, "transcript": "राहु जी को 75,440 रुपये उधार लिख दो।", "transcript_b": "साहू जी को ₹75,440 उधार लिख 2", "snr_db": 13.610255867272281, "dur_s": 5.232}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u10", "expect_paise": 7544000, "transcript": "राहुल जी को 75,440 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u10", "expect_paise": 7544000, "transcript": "साहू जी को ₹75,440 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u10", "expect_paise": 7544000, "transcript": "राहुल जी को 75,440 रुपये उधार लिख दो।", "transcript_b": "साहू जी को ₹75,440 उधार लिख 2", "snr_db": 20.262155288449275, "dur_s": 5.232}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u11", "expect_paise": 5000, "transcript": "शर्मा जी को 50 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u11", "expect_paise": 5000, "transcript": "शर्मा जी को ₹50 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u11", "expect_paise": 5000, "transcript": "शर्मा जी को 50 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को ₹50 उधार लिख 2", "snr_db": 59.952999081279145, "dur_s": 3.312}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u11", "expect_paise": 5000, "transcript": "शर्मा जी को 50 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u11", "expect_paise": 5000, "transcript": "शर्मा जी को ₹50 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u11", "expect_paise": 5000, "transcript": "शर्मा जी को 50 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को ₹50 उधार लिख 2", "snr_db": 18.557595006845474, "dur_s": 3.312}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u11", "expect_paise": 5000, "transcript": "शर्मा जी को 50 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u11", "expect_paise": 5000, "transcript": "शर्मा जी को ₹50 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u11", "expect_paise": 5000, "transcript": "शर्मा जी को 50 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को ₹50 उधार लिख 2", "snr_db": 11.826718814365924, "dur_s": 3.312}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u11", "expect_paise": 5000, "transcript": "शर्मा जी को 50 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u11", "expect_paise": 5000, "transcript": "शर्मा जी को ₹50 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u11", "expect_paise": 5000, "transcript": "शर्मा जी को 50 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को ₹50 उधार लिख 2", "snr_db": 18.539375979415777, "dur_s": 3.312}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u12", "expect_paise": 10000, "transcript": "वर्मा जी को 100 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u12", "expect_paise": 10000, "transcript": "वर्मा जी को ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u12", "expect_paise": 10000, "transcript": "वर्मा जी को 100 रुपये उधार लिख दो।", "transcript_b": "वर्मा जी को ₹100 उधार लिख 2", "snr_db": 64.79684277471996, "dur_s": 2.976}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u12", "expect_paise": 10000, "transcript": "वर्मा जी को 100 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u12", "expect_paise": 10000, "transcript": "वर्मा जी को ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u12", "expect_paise": 10000, "transcript": "वर्मा जी को 100 रुपये उधार लिख दो।", "transcript_b": "वर्मा जी को ₹100 उधार लिख 2", "snr_db": 17.717455264241394, "dur_s": 2.976}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u12", "expect_paise": 10000, "transcript": "वरमा जी को 100 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u12", "expect_paise": 10000, "transcript": "वर्मा जी को ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u12", "expect_paise": 10000, "transcript": "वरमा जी को 100 रुपये उधार लिख दो।", "transcript_b": "वर्मा जी को ₹100 उधार लिख 2", "snr_db": 11.6269829289124, "dur_s": 2.976}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u12", "expect_paise": 10000, "transcript": "वर्मा जी को 100 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u12", "expect_paise": 10000, "transcript": "वर्मा जी को ₹100 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u12", "expect_paise": 10000, "transcript": "वर्मा जी को 100 रुपये उधार लिख दो।", "transcript_b": "वर्मा जी को ₹100 उधार लिख 2", "snr_db": 17.744659421940458, "dur_s": 2.976}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u13", "expect_paise": 20000, "transcript": "गुप्ता जी ने 200 रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u13", "expect_paise": 20000, "transcript": "गुप्ता जी ने ₹200 दिए"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u13", "expect_paise": 20000, "transcript": "गुप्ता जी ने 200 रुपये दिए।", "transcript_b": "गुप्ता जी ने ₹200 दिए", "snr_db": 70.93606416810887, "dur_s": 2.592}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u13", "expect_paise": 20000, "transcript": "गुप्ता जी ने 200 रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u13", "expect_paise": 20000, "transcript": "गुप्ता जी ने ₹200 दिए"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u13", "expect_paise": 20000, "transcript": "गुप्ता जी ने 200 रुपये दिए।", "transcript_b": "गुप्ता जी ने ₹200 दिए", "snr_db": 18.88142975703095, "dur_s": 2.592}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u13", "expect_paise": 20000, "transcript": "गुप्ता जी ने 200 रुपए दिए।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u13", "expect_paise": 20000, "transcript": "गुप्ता जी ने ₹200 दिए"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u13", "expect_paise": 20000, "transcript": "गुप्ता जी ने 200 रुपए दिए।", "transcript_b": "गुप्ता जी ने ₹200 दिए", "snr_db": 11.198791917479305, "dur_s": 2.592}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u13", "expect_paise": 20000, "transcript": "गुप्ता जी ने 200 रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u13", "expect_paise": 20000, "transcript": "गुप्ता जी ने ₹200 दिए"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u13", "expect_paise": 20000, "transcript": "गुप्ता जी ने 200 रुपये दिए।", "transcript_b": "गुप्ता जी ने ₹200 दिए", "snr_db": 18.897382091937146, "dur_s": 2.592}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u14", "expect_paise": 50000, "transcript": "यादव जी ने 500 रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u14", "expect_paise": 50000, "transcript": "यादव जी ने ₹500 दिए"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u14", "expect_paise": 50000, "transcript": "यादव जी ने 500 रुपये दिए।", "transcript_b": "यादव जी ने ₹500 दिए", "snr_db": 70.34879792821458, "dur_s": 2.688}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u14", "expect_paise": 50000, "transcript": "यादव जी ने 500 रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u14", "expect_paise": 50000, "transcript": "यादव जी ने ₹500 दिए"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u14", "expect_paise": 50000, "transcript": "यादव जी ने 500 रुपये दिए।", "transcript_b": "यादव जी ने ₹500 दिए", "snr_db": 17.972087838974414, "dur_s": 2.688}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u14", "expect_paise": 50000, "transcript": "यादव जी ने 500 रुपए दिए।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u14", "expect_paise": 50000, "transcript": "यादव जी ने ₹500 दिए"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u14", "expect_paise": 50000, "transcript": "यादव जी ने 500 रुपए दिए।", "transcript_b": "यादव जी ने ₹500 दिए", "snr_db": 11.50517312410969, "dur_s": 2.688}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u14", "expect_paise": 50000, "transcript": "यादव जी ने 500 रुपए दिए।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u14", "expect_paise": 50000, "transcript": "यादव जी ने ₹500 दिए"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u14", "expect_paise": 50000, "transcript": "यादव जी ने 500 रुपए दिए।", "transcript_b": "यादव जी ने ₹500 दिए", "snr_db": 17.939483860083662, "dur_s": 2.688}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u15", "expect_paise": 75000, "transcript": "मिश्रा जी को 750 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u15", "expect_paise": 75000, "transcript": "मिश्रा जी को ₹750 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u15", "expect_paise": 75000, "transcript": "मिश्रा जी को 750 रुपये उधार लिख दो।", "transcript_b": "मिश्रा जी को ₹750 उधार लिख 2", "snr_db": 49.14699965633979, "dur_s": 3.768}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u15", "expect_paise": 75000, "transcript": "मिश्रा जी को 750 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u15", "expect_paise": 75000, "transcript": "मिश्रा जी को ₹750 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u15", "expect_paise": 75000, "transcript": "मिश्रा जी को 750 रुपये उधार लिख दो।", "transcript_b": "मिश्रा जी को ₹750 उधार लिख 2", "snr_db": 19.2474146982513, "dur_s": 3.768}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u15", "expect_paise": 75000, "transcript": "मिश्रा जी को 750 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u15", "expect_paise": 75000, "transcript": "मिश्रा जी को ₹750 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u15", "expect_paise": 75000, "transcript": "मिश्रा जी को 750 रुपये उधार लिख दो।", "transcript_b": "मिश्रा जी को ₹750 उधार लिख 2", "snr_db": 12.301927094587601, "dur_s": 3.768}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u15", "expect_paise": 75000, "transcript": "मिश्रा जी को 750 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u15", "expect_paise": 75000, "transcript": "मिश्रा जी को ₹750 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u15", "expect_paise": 75000, "transcript": "मिश्रा जी को 750 रुपये उधार लिख दो।", "transcript_b": "मिश्रा जी को ₹750 उधार लिख 2", "snr_db": 19.20983184309348, "dur_s": 3.768}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u16", "expect_paise": 120000, "transcript": "पटेल जी को 1,200 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u16", "expect_paise": 120000, "transcript": "पटेल जी को ₹1,200 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u16", "expect_paise": 120000, "transcript": "पटेल जी को 1,200 रुपये उधार लिख दो।", "transcript_b": "पटेल जी को ₹1,200 उधार लिख 2", "snr_db": 62.16958788836372, "dur_s": 3.408}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u16", "expect_paise": 120000, "transcript": "पटेल जी को 1200 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u16", "expect_paise": 120000, "transcript": "पटेल जी को ₹1,200 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u16", "expect_paise": 120000, "transcript": "पटेल जी को 1200 रुपये उधार लिख दो।", "transcript_b": "पटेल जी को ₹1,200 उधार लिख 2", "snr_db": 17.106936590043905, "dur_s": 3.408}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u16", "expect_paise": 120000, "transcript": "पटेल जी को 1200 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u16", "expect_paise": 120000, "transcript": "पटेल जी को ₹1,200 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u16", "expect_paise": 120000, "transcript": "पटेल जी को 1200 रुपये उधार लिख दो।", "transcript_b": "पटेल जी को ₹1,200 उधार लिख 2", "snr_db": 10.582460787115993, "dur_s": 3.408}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u16", "expect_paise": 120000, "transcript": "पटेल जी को 1200 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u16", "expect_paise": 120000, "transcript": "पटेल जी को ₹1,200 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u16", "expect_paise": 120000, "transcript": "पटेल जी को 1200 रुपये उधार लिख दो।", "transcript_b": "पटेल जी को ₹1,200 उधार लिख 2", "snr_db": 17.18193732490792, "dur_s": 3.408}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u17", "expect_paise": 100000, "transcript": "सिम जी ने 1000 रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u17", "expect_paise": 100000, "transcript": "सिंह जी ने ₹1,000 दिए"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u17", "expect_paise": 100000, "transcript": "सिम जी ने 1000 रुपये दिए।", "transcript_b": "सिंह जी ने ₹1,000 दिए", "snr_db": 73.19825812952897, "dur_s": 2.736}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u17", "expect_paise": 100000, "transcript": "सिंह जी ने 1000 रुपए दिए।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u17", "expect_paise": 100000, "transcript": "सिंह जी ने ₹1,000 दिए"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u17", "expect_paise": 100000, "transcript": "सिंह जी ने 1000 रुपए दिए।", "transcript_b": "सिंह जी ने ₹1,000 दिए", "snr_db": 19.124597045676342, "dur_s": 2.736}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u17", "expect_paise": 100000, "transcript": "पिंकी ने 1000 रुपए दिए।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u17", "expect_paise": 100000, "transcript": "सिंह जी ने ₹1,000 दिए"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u17", "expect_paise": 100000, "transcript": "पिंकी ने 1000 रुपए दिए।", "transcript_b": "सिंह जी ने ₹1,000 दिए", "snr_db": 13.444698497731622, "dur_s": 2.736}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u17", "expect_paise": 100000, "transcript": "पिंकी ने 1000 रुपए दिए।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u17", "expect_paise": 100000, "transcript": "सिंह जी ने ₹1,000 दिए"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u17", "expect_paise": 100000, "transcript": "पिंकी ने 1000 रुपए दिए।", "transcript_b": "सिंह जी ने ₹1,000 दिए", "snr_db": 19.126920763106316, "dur_s": 2.736}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u18", "expect_paise": 320000, "transcript": "दास जी को 3,200 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u18", "expect_paise": 320000, "transcript": "दास जी को ₹3,200 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u18", "expect_paise": 320000, "transcript": "दास जी को 3,200 रुपये उधार लिख दो।", "transcript_b": "दास जी को ₹3,200 उधार लिख 2", "snr_db": 44.572298764947966, "dur_s": 3.888}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u18", "expect_paise": 320000, "transcript": "दास जी को 3,200 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u18", "expect_paise": 320000, "transcript": "दास जी को ₹3,200 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u18", "expect_paise": 320000, "transcript": "दास जी को 3,200 रुपये उधार लिख दो।", "transcript_b": "दास जी को ₹3,200 उधार लिख 2", "snr_db": 17.87078727078853, "dur_s": 3.888}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u18", "expect_paise": 320000, "transcript": "दास जी को 3200 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u18", "expect_paise": 320000, "transcript": "दास जी को ₹3,200 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u18", "expect_paise": 320000, "transcript": "दास जी को 3200 रुपये उधार लिख दो।", "transcript_b": "दास जी को ₹3,200 उधार लिख 2", "snr_db": 11.051156691623644, "dur_s": 3.888}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u18", "expect_paise": 320000, "transcript": "दास जी को 3,200 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u18", "expect_paise": 320000, "transcript": "दास जी को ₹3,200 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u18", "expect_paise": 320000, "transcript": "दास जी को 3,200 रुपये उधार लिख दो।", "transcript_b": "दास जी को ₹3,200 उधार लिख 2", "snr_db": 17.881456440303474, "dur_s": 3.888}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u19", "expect_paise": 1000000, "transcript": "साहू जी ने 10,000 रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u19", "expect_paise": 1000000, "transcript": "साहू जी ने ₹10,000 दिए"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u19", "expect_paise": 1000000, "transcript": "साहू जी ने 10,000 रुपये दिए।", "transcript_b": "साहू जी ने ₹10,000 दिए", "snr_db": 71.10341948971238, "dur_s": 2.76}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u19", "expect_paise": 1000000, "transcript": "साहुन जी ने 10,000 रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u19", "expect_paise": 1000000, "transcript": "साहू जी ने ₹10,000 दिए"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u19", "expect_paise": 1000000, "transcript": "साहुन जी ने 10,000 रुपये दिए।", "transcript_b": "साहू जी ने ₹10,000 दिए", "snr_db": 18.939601696886694, "dur_s": 2.76}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u19", "expect_paise": 1000000, "transcript": "सारू जी ने 10000 रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u19", "expect_paise": 1000000, "transcript": "साहू जी ने ₹10,000 दिए"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u19", "expect_paise": 1000000, "transcript": "सारू जी ने 10000 रुपये दिए।", "transcript_b": "साहू जी ने ₹10,000 दिए", "snr_db": 12.88128131649145, "dur_s": 2.76}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u19", "expect_paise": 1000000, "transcript": "राहुल जी ने 10,000 रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u19", "expect_paise": 1000000, "transcript": "साहू जी ने ₹10,000 दिए"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u19", "expect_paise": 1000000, "transcript": "राहुल जी ने 10,000 रुपये दिए।", "transcript_b": "साहू जी ने ₹10,000 दिए", "snr_db": 19.153538667205364, "dur_s": 2.76}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u20", "expect_paise": 150000, "transcript": "शर्मा जी को 1,500 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u20", "expect_paise": 150000, "transcript": "शर्मा जी को ₹1,500 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u20", "expect_paise": 150000, "transcript": "शर्मा जी को 1,500 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को ₹1,500 उधार लिख 2", "snr_db": 52.26498417971467, "dur_s": 3.552}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u20", "expect_paise": 150000, "transcript": "शर्मा जी को 1,500 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u20", "expect_paise": 150000, "transcript": "शर्मा जी को ₹1,500 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u20", "expect_paise": 150000, "transcript": "शर्मा जी को 1,500 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को ₹1,500 उधार लिख 2", "snr_db": 17.533624963022802, "dur_s": 3.552}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u20", "expect_paise": 150000, "transcript": "शर्मा जी को 1500 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u20", "expect_paise": 150000, "transcript": "शर्मा जी को ₹1,500 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u20", "expect_paise": 150000, "transcript": "शर्मा जी को 1500 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को ₹1,500 उधार लिख 2", "snr_db": 10.52957208057144, "dur_s": 3.552}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u20", "expect_paise": 150000, "transcript": "शर्मा जी को 1500 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u20", "expect_paise": 150000, "transcript": "शर्मा जी को ₹1,500 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u20", "expect_paise": 150000, "transcript": "शर्मा जी को 1500 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को ₹1,500 उधार लिख 2", "snr_db": 17.53429240038341, "dur_s": 3.552}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u21", "expect_paise": 2500, "transcript": "वर्मा जी को 25 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u21", "expect_paise": 2500, "transcript": "वर्मा जी को ₹25 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u21", "expect_paise": 2500, "transcript": "वर्मा जी को 25 रुपये उधार लिख दो।", "transcript_b": "वर्मा जी को ₹25 उधार लिख 2", "snr_db": 64.06024707826526, "dur_s": 3.264}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u21", "expect_paise": 2500, "transcript": "वरिआ जी को 25 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u21", "expect_paise": 2500, "transcript": "वर्मा जी को ₹25 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u21", "expect_paise": 2500, "transcript": "वरिआ जी को 25 रुपये उधार लिख दो।", "transcript_b": "वर्मा जी को ₹25 उधार लिख 2", "snr_db": 20.71350441790868, "dur_s": 3.264}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u21", "expect_paise": 2500, "transcript": "माँ जी को 25 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u21", "expect_paise": 2500, "transcript": "वर्मा झूठ ₹25 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u21", "expect_paise": 2500, "transcript": "माँ जी को 25 रुपये उधार लिख दो।", "transcript_b": "वर्मा झूठ ₹25 उधार लिख 2", "snr_db": 13.202746270962836, "dur_s": 3.264}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u21", "expect_paise": 2500, "transcript": "वरिंह जी को 25 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u21", "expect_paise": 2500, "transcript": "वर्मा जी को ₹25 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u21", "expect_paise": 2500, "transcript": "वरिंह जी को 25 रुपये उधार लिख दो।", "transcript_b": "वर्मा जी को ₹25 उधार लिख 2", "snr_db": 20.716827619906063, "dur_s": 3.264}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u22", "expect_paise": 4500, "transcript": "गुप्ता जी को 45 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u22", "expect_paise": 4500, "transcript": "गुप्ता जी को ₹45 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u22", "expect_paise": 4500, "transcript": "गुप्ता जी को 45 रुपये उधार लिख दो।", "transcript_b": "गुप्ता जी को ₹45 उधार लिख 2", "snr_db": 50.20350241249674, "dur_s": 3.456}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u22", "expect_paise": 4500, "transcript": "गुप्ता जी को 45 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u22", "expect_paise": 4500, "transcript": "गुप्ता जी को ₹45 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u22", "expect_paise": 4500, "transcript": "गुप्ता जी को 45 रुपये उधार लिख दो।", "transcript_b": "गुप्ता जी को ₹45 उधार लिख 2", "snr_db": 16.218096089070112, "dur_s": 3.456}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u22", "expect_paise": 4500, "transcript": "गुप्ता जी को 45 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u22", "expect_paise": 4500, "transcript": "गुप्ता जी को ₹45 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u22", "expect_paise": 4500, "transcript": "गुप्ता जी को 45 रुपये उधार लिख दो।", "transcript_b": "गुप्ता जी को ₹45 उधार लिख 2", "snr_db": 10.690170876380854, "dur_s": 3.456}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u22", "expect_paise": 4500, "transcript": "गुप्ता जी को 45 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u22", "expect_paise": 4500, "transcript": "गुप्ता जी को ₹43 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u22", "expect_paise": 4500, "transcript": "गुप्ता जी को 45 रुपये उधार लिख दो।", "transcript_b": "गुप्ता जी को ₹43 उधार लिख 2", "snr_db": 16.207558840807046, "dur_s": 3.456}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u23", "expect_paise": 8600, "transcript": "यादव जी को 86 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u23", "expect_paise": 8600, "transcript": "यादव जी को ₹86 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u23", "expect_paise": 8600, "transcript": "यादव जी को 86 रुपये उधार लिख दो।", "transcript_b": "यादव जी को ₹86 उधार लिख 2", "snr_db": 61.15217122267473, "dur_s": 3.36}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u23", "expect_paise": 8600, "transcript": "यादव जी को 86 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u23", "expect_paise": 8600, "transcript": "यादव जी को ₹86 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u23", "expect_paise": 8600, "transcript": "यादव जी को 86 रुपये उधार लिख दो।", "transcript_b": "यादव जी को ₹86 उधार लिख 2", "snr_db": 14.333148728709507, "dur_s": 3.36}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u23", "expect_paise": 8600, "transcript": "यादव जी को 86 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u23", "expect_paise": 8600, "transcript": "यादव जी को ₹86 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u23", "expect_paise": 8600, "transcript": "यादव जी को 86 रुपये उधार लिख दो।", "transcript_b": "यादव जी को ₹86 उधार लिख 2", "snr_db": 7.996403123823188, "dur_s": 3.36}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u23", "expect_paise": 8600, "transcript": "यादव जी को 86 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u23", "expect_paise": 8600, "transcript": "यादव जी को ₹86 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u23", "expect_paise": 8600, "transcript": "यादव जी को 86 रुपये उधार लिख दो।", "transcript_b": "यादव जी को ₹86 उधार लिख 2", "snr_db": 14.346944712196459, "dur_s": 3.36}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u24", "expect_paise": 9900, "transcript": "मिश्रा जी ने 99 रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u24", "expect_paise": 9900, "transcript": "मिश्रा जी ने ₹99 दिए"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u24", "expect_paise": 9900, "transcript": "मिश्रा जी ने 99 रुपये दिए।", "transcript_b": "मिश्रा जी ने ₹99 दिए", "snr_db": 73.1206663728687, "dur_s": 2.688}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u24", "expect_paise": 9900, "transcript": "मिश्रा जी ने 99 रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u24", "expect_paise": 9900, "transcript": "मिश्रा जी ने ₹99 दिए"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u24", "expect_paise": 9900, "transcript": "मिश्रा जी ने 99 रुपये दिए।", "transcript_b": "मिश्रा जी ने ₹99 दिए", "snr_db": 21.617032295422188, "dur_s": 2.688}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u24", "expect_paise": 9900, "transcript": "मिश्रा जी ने लिंगाओं में रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u24", "expect_paise": 9900, "transcript": "मिश्रा जी ने ₹99 दिए"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u24", "expect_paise": 9900, "transcript": "मिश्रा जी ने लिंगाओं में रुपये दिए।", "transcript_b": "मिश्रा जी ने ₹99 दिए", "snr_db": 14.515070579459028, "dur_s": 2.688}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u24", "expect_paise": 9900, "transcript": "मिश्रा जी ने 99 रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u24", "expect_paise": 9900, "transcript": "मिश्रा जी ने ₹99 दिए"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u24", "expect_paise": 9900, "transcript": "मिश्रा जी ने 99 रुपये दिए।", "transcript_b": "मिश्रा जी ने ₹99 दिए", "snr_db": 21.611151090877968, "dur_s": 2.688}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u25", "expect_paise": 15000, "transcript": "पटेल जी को 150 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u25", "expect_paise": 15000, "transcript": "पटेल जी को ₹150 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u25", "expect_paise": 15000, "transcript": "पटेल जी को 150 रुपये उधार लिख दो।", "transcript_b": "पटेल जी को ₹150 उधार लिख 2", "snr_db": 54.675730267660086, "dur_s": 3.72}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u25", "expect_paise": 15000, "transcript": "पटेल जी को 150 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u25", "expect_paise": 15000, "transcript": "पटेल जी को ₹150 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u25", "expect_paise": 15000, "transcript": "पटेल जी को 150 रुपये उधार लिख दो।", "transcript_b": "पटेल जी को ₹150 उधार लिख 2", "snr_db": 17.57844957417668, "dur_s": 3.72}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u25", "expect_paise": 15000, "transcript": "तेल जी को 150 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u25", "expect_paise": 15000, "transcript": "पटेल जी को ₹150 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u25", "expect_paise": 15000, "transcript": "तेल जी को 150 रुपये उधार लिख दो।", "transcript_b": "पटेल जी को ₹150 उधार लिख 2", "snr_db": 11.553606683418707, "dur_s": 3.72}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u25", "expect_paise": 15000, "transcript": "पटेल जी को 150 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u25", "expect_paise": 15000, "transcript": "पटेल जी को ₹150 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u25", "expect_paise": 15000, "transcript": "पटेल जी को 150 रुपये उधार लिख दो।", "transcript_b": "पटेल जी को ₹150 उधार लिख 2", "snr_db": 17.58302032701718, "dur_s": 3.72}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u26", "expect_paise": 44000, "transcript": "सिम जी को 440 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u26", "expect_paise": 44000, "transcript": "सिंह जी को ₹440 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u26", "expect_paise": 44000, "transcript": "सिम जी को 440 रुपये उधार लिख दो।", "transcript_b": "सिंह जी को ₹440 उधार लिख 2", "snr_db": 56.91684925387279, "dur_s": 3.72}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u26", "expect_paise": 44000, "transcript": "सिंह जी को 440 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u26", "expect_paise": 44000, "transcript": "सिंह जी को ₹440 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u26", "expect_paise": 44000, "transcript": "सिंह जी को 440 रुपये उधार लिख दो।", "transcript_b": "सिंह जी को ₹440 उधार लिख 2", "snr_db": 17.700366055344208, "dur_s": 3.72}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u26", "expect_paise": 44000, "transcript": "सिंह जी को 440 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u26", "expect_paise": 44000, "transcript": "सिंह जी को ₹440 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u26", "expect_paise": 44000, "transcript": "सिंह जी को 440 रुपये उधार लिख दो।", "transcript_b": "सिंह जी को ₹440 उधार लिख 2", "snr_db": 11.99074448524396, "dur_s": 3.72}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u26", "expect_paise": 44000, "transcript": "इन जी को 440 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u26", "expect_paise": 44000, "transcript": "सिंह जी को ₹440 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u26", "expect_paise": 44000, "transcript": "इन जी को 440 रुपये उधार लिख दो।", "transcript_b": "सिंह जी को ₹440 उधार लिख 2", "snr_db": 17.743738891928256, "dur_s": 3.72}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u27", "expect_paise": 180000, "transcript": "दास जी ने 1800 रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u27", "expect_paise": 180000, "transcript": "दास जी ने ₹1,800 दिए"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u27", "expect_paise": 180000, "transcript": "दास जी ने 1800 रुपये दिए।", "transcript_b": "दास जी ने ₹1,800 दिए", "snr_db": 67.28980569643798, "dur_s": 2.832}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u27", "expect_paise": 180000, "transcript": "दास जी ने 1800 रुपए दिए।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u27", "expect_paise": 180000, "transcript": "दास जी ने ₹1,800 दिए"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u27", "expect_paise": 180000, "transcript": "दास जी ने 1800 रुपए दिए।", "transcript_b": "दास जी ने ₹1,800 दिए", "snr_db": 18.587343883321154, "dur_s": 2.832}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u27", "expect_paise": 180000, "transcript": "उस चीनी 1800 रुपये दिए।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u27", "expect_paise": 180000, "transcript": "दास जी ने ₹1,800 दिए"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u27", "expect_paise": 180000, "transcript": "उस चीनी 1800 रुपये दिए।", "transcript_b": "दास जी ने ₹1,800 दिए", "snr_db": 12.396174890725229, "dur_s": 2.832}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u27", "expect_paise": 180000, "transcript": "बाप जी ने 1800 रुपए दिए।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u27", "expect_paise": 180000, "transcript": "दास जी ने ₹1,800 दिए"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u27", "expect_paise": 180000, "transcript": "बाप जी ने 1800 रुपए दिए।", "transcript_b": "दास जी ने ₹1,800 दिए", "snr_db": 18.597317923612163, "dur_s": 2.832}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u28", "expect_paise": 350000, "transcript": "साहू जी को 3,500 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u28", "expect_paise": 350000, "transcript": "साहू जी को ₹3,500 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u28", "expect_paise": 350000, "transcript": "साहू जी को 3,500 रुपये उधार लिख दो।", "transcript_b": "साहू जी को ₹3,500 उधार लिख 2", "snr_db": 50.29717847888893, "dur_s": 3.816}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u28", "expect_paise": 350000, "transcript": "साहु जी को 3500 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u28", "expect_paise": 350000, "transcript": "साहू जी को ₹3,500 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u28", "expect_paise": 350000, "transcript": "साहु जी को 3500 रुपये उधार लिख दो।", "transcript_b": "साहू जी को ₹3,500 उधार लिख 2", "snr_db": 17.737694362350133, "dur_s": 3.816}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u28", "expect_paise": 350000, "transcript": "साहब जी को 3500 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u28", "expect_paise": 350000, "transcript": "साहू जी को ₹3,500 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u28", "expect_paise": 350000, "transcript": "साहब जी को 3500 रुपये उधार लिख दो।", "transcript_b": "साहू जी को ₹3,500 उधार लिख 2", "snr_db": 11.035983809934681, "dur_s": 3.816}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u28", "expect_paise": 350000, "transcript": "राहुल जी को 3,500 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u28", "expect_paise": 350000, "transcript": "साहू जी को ₹3,500 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u28", "expect_paise": 350000, "transcript": "राहुल जी को 3,500 रुपये उधार लिख दो।", "transcript_b": "साहू जी को ₹3,500 उधार लिख 2", "snr_db": 17.736466845383173, "dur_s": 3.816}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u29", "expect_paise": 17500000, "transcript": "शर्मा जी को 1,75,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u29", "expect_paise": 17500000, "transcript": "शर्मा जी को पौने ₹2,00,000 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u29", "expect_paise": 17500000, "transcript": "शर्मा जी को 1,75,000 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को पौने ₹2,00,000 उधार लिख 2", "snr_db": 48.86947943803185, "dur_s": 3.816}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u29", "expect_paise": 17500000, "transcript": "शर्मा जी को 1,75,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u29", "expect_paise": 17500000, "transcript": "शर्मा जी को पौने ₹2,00,000 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u29", "expect_paise": 17500000, "transcript": "शर्मा जी को 1,75,000 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को पौने ₹2,00,000 उधार लिख 2", "snr_db": 14.776830181711418, "dur_s": 3.816}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u29", "expect_paise": 17500000, "transcript": "शर्मा जी को 1,75,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u29", "expect_paise": 17500000, "transcript": "शर्मा जी को पौने ₹2,00,000 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u29", "expect_paise": 17500000, "transcript": "शर्मा जी को 1,75,000 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को पौने ₹2,00,000 उधार लिख 2", "snr_db": 8.407451978712167, "dur_s": 3.816}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u29", "expect_paise": 17500000, "transcript": "शर्मा जी को 1,75,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u29", "expect_paise": 17500000, "transcript": "शर्मा जी को पौने ₹2,00,000 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u29", "expect_paise": 17500000, "transcript": "शर्मा जी को 1,75,000 रुपये उधार लिख दो।", "transcript_b": "शर्मा जी को पौने ₹2,00,000 उधार लिख 2", "snr_db": 14.741694566074965, "dur_s": 3.816}
+{"system": "S1_gnani_v3", "condition": "C0", "utt_id": "u30", "expect_paise": 10000000, "transcript": "वर्मा जी को 1,00,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C0", "utt_id": "u30", "expect_paise": 10000000, "transcript": "वर्मा जी को ₹1,00,000 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C0", "utt_id": "u30", "expect_paise": 10000000, "transcript": "वर्मा जी को 1,00,000 रुपये उधार लिख दो।", "transcript_b": "वर्मा जी को ₹1,00,000 उधार लिख 2", "snr_db": 61.47661429839672, "dur_s": 3.384}
+{"system": "S1_gnani_v3", "condition": "C1", "utt_id": "u30", "expect_paise": 10000000, "transcript": "वर्मा जी को 1,00,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C1", "utt_id": "u30", "expect_paise": 10000000, "transcript": "वर्मा जी को ₹1,00,000 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C1", "utt_id": "u30", "expect_paise": 10000000, "transcript": "वर्मा जी को 1,00,000 रुपये उधार लिख दो।", "transcript_b": "वर्मा जी को ₹1,00,000 उधार लिख 2", "snr_db": 17.11663365200281, "dur_s": 3.384}
+{"system": "S1_gnani_v3", "condition": "C2", "utt_id": "u30", "expect_paise": 10000000, "transcript": "वरना जी को 1,00,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C2", "utt_id": "u30", "expect_paise": 10000000, "transcript": "वर्मा जी को ₹1,00,000 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C2", "utt_id": "u30", "expect_paise": 10000000, "transcript": "वरना जी को 1,00,000 रुपये उधार लिख दो।", "transcript_b": "वर्मा जी को ₹1,00,000 उधार लिख 2", "snr_db": 11.474548299893321, "dur_s": 3.384}
+{"system": "S1_gnani_v3", "condition": "C3", "utt_id": "u30", "expect_paise": 10000000, "transcript": "वर्मा जी को 1,00,000 रुपये उधार लिख दो।"}
+{"system": "S2_gnani_v25", "condition": "C3", "utt_id": "u30", "expect_paise": 10000000, "transcript": "वर्मा जी को ₹1,00,000 उधार लिख 2"}
+{"system": "MUNIM_dual", "condition": "C3", "utt_id": "u30", "expect_paise": 10000000, "transcript": "वर्मा जी को 1,00,000 रुपये उधार लिख दो।", "transcript_b": "वर्मा जी को ₹1,00,000 उधार लिख 2", "snr_db": 17.157569156515322, "dur_s": 3.384}

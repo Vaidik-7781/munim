@@ -1,0 +1,17 @@
+{
+  "tts_words_ogg": {
+    "ok": true,
+    "bytes": 27649,
+    "ogg_magic": true,
+    "codec": "opus",
+    "file": "C:\\WebDev Projects\\munim\\scripts\\..\\data\\g0_samples\\tts_words.ogg"
+  },
+  "tts_digits_ogg": {
+    "ok": true,
+    "bytes": 30689,
+    "file": "C:\\WebDev Projects\\munim\\scripts\\..\\data\\g0_samples\\tts_digits.ogg",
+    "note": "LISTEN: is 75,440 read correctly? (we always use words anyway)"
+  },
+  "roundtrip_stt_both_models": {
+    "ok": true,
+    "v3_transcript": 

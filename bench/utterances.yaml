@@ -1,0 +1,33 @@
+# Noise Shield truth set. 'say' is Devanagari (TTS-friendly); 'expect' is the money amount in rupees.
+# Templates: udhaar -> "{name} जी को {amt} रुपये उधार लिख दो" ; diye -> "{name} जी ने {amt} रुपये दिए"
+# Categories: idiom (dedh/dhai/sava/paune/saadhe), plain, big (hazaar/lakh), long (multi-part), small.
+- {id: u01, name: शर्मा,   amt: डेढ़ सौ,                         expect: 150,    kind: udhaar, cat: idiom}
+- {id: u02, name: वर्मा,   amt: ढाई सौ,                          expect: 250,    kind: udhaar, cat: idiom}
+- {id: u03, name: गुप्ता,  amt: सवा सौ,                          expect: 125,    kind: udhaar, cat: idiom}
+- {id: u04, name: यादव,    amt: पौने दो सौ,                       expect: 175,    kind: udhaar, cat: idiom}
+- {id: u05, name: मिश्रा,  amt: साढ़े तीन सौ,                     expect: 350,    kind: udhaar, cat: idiom}
+- {id: u06, name: शर्मा,   amt: डेढ़ हज़ार,                       expect: 1500,   kind: udhaar, cat: idiom}
+- {id: u07, name: पटेल,    amt: ढाई हज़ार,                       expect: 2500,   kind: udhaar, cat: idiom}
+- {id: u08, name: सिंह,    amt: सवा लाख,                         expect: 125000, kind: udhaar, cat: idiom}
+- {id: u09, name: दास,     amt: दो लाख पचास हज़ार,               expect: 250000, kind: udhaar, cat: big}
+- {id: u10, name: साहू,    amt: पचहत्तर हज़ार चार सौ चालीस,     expect: 75440,  kind: udhaar, cat: long}
+- {id: u11, name: शर्मा,   amt: पचास,                            expect: 50,     kind: udhaar, cat: small}
+- {id: u12, name: वर्मा,   amt: सौ,                              expect: 100,    kind: udhaar, cat: plain}
+- {id: u13, name: गुप्ता,  amt: दो सौ,                           expect: 200,    kind: diye,   cat: plain}
+- {id: u14, name: यादव,    amt: पाँच सौ,                         expect: 500,    kind: diye,   cat: plain}
+- {id: u15, name: मिश्रा,  amt: सात सौ पचास,                     expect: 750,    kind: udhaar, cat: plain}
+- {id: u16, name: पटेल,    amt: बारह सौ,                         expect: 1200,   kind: udhaar, cat: plain}
+- {id: u17, name: सिंह,    amt: एक हज़ार,                        expect: 1000,   kind: diye,   cat: plain}
+- {id: u18, name: दास,     amt: तीन हज़ार दो सौ,                 expect: 3200,   kind: udhaar, cat: big}
+- {id: u19, name: साहू,    amt: दस हज़ार,                        expect: 10000,  kind: diye,   cat: big}
+- {id: u20, name: शर्मा,   amt: पंद्रह सौ,                       expect: 1500,   kind: udhaar, cat: plain}
+- {id: u21, name: वर्मा,   amt: पच्चीस,                          expect: 25,     kind: udhaar, cat: small}
+- {id: u22, name: गुप्ता,  amt: पैंतालीस,                        expect: 45,     kind: udhaar, cat: small}
+- {id: u23, name: यादव,    amt: छियासी,                          expect: 86,     kind: udhaar, cat: small}
+- {id: u24, name: मिश्रा,  amt: निन्यानवे,                       expect: 99,     kind: diye,   cat: small}
+- {id: u25, name: पटेल,    amt: एक सौ पचास,                      expect: 150,    kind: udhaar, cat: plain}
+- {id: u26, name: सिंह,    amt: चार सौ चालीस,                    expect: 440,    kind: udhaar, cat: plain}
+- {id: u27, name: दास,     amt: अठारह सौ,                        expect: 1800,   kind: diye,   cat: plain}
+- {id: u28, name: साहू,    amt: साढ़े तीन हज़ार,                 expect: 3500,   kind: udhaar, cat: idiom}
+- {id: u29, name: शर्मा,   amt: पौने दो लाख,                     expect: 175000, kind: udhaar, cat: idiom}
+- {id: u30, name: वर्मा,   amt: एक लाख,                          expect: 100000, kind: udhaar, cat: big}

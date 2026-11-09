@@ -1,0 +1,24 @@
+# Reminder scripts. Placeholders: {shop} {name} {amount_words} {amount}
+# Every script discloses the AI sender and offers an easy way to dispute or stop.
+gentle:
+  hi: >-
+    Namaste {name} ji. Yeh {shop} ki taraf se Munim (AI sahayak) ka sandesh hai.
+    Aapke khate mein {amount} baaki dikh raha hai. Jab suvidha ho, kripya bata dijiye.
+    Agar yeh hisaab sahi na lage ya aap yeh sandesh nahi chahte, to bas "galat" ya "ruko" likh dijiye.
+  hi_voice: >-
+    Namaste {name} ji. Yeh {shop} ki taraf se Munim, ek AI sahayak bol raha hai.
+    Aapke khate mein {amount_words} baaki dikh rahe hain. Jab suvidha ho, bata dijiye.
+    Agar hisaab sahi na lage, to dukaan par bata dijiye.
+friendly:
+  hi: >-
+    Namaste {name} ji! Yeh {shop} ka Munim (AI sahayak) hai. Khate mein {amount} baaki hai,
+    jab theek lage chuka dijiye. Koi galti lage to "galat" likh dijiye.
+
+en:
+  text: >-
+    Hello {name}. This is a message from {shop}'s AI assistant, Munim. Your account shows {amount} outstanding.
+    Whenever it suits you, please let us know. If this looks wrong, or you would rather not receive these messages,
+    just reply "wrong" or "stop".
+  voice: >-
+    Hello {name}. This is Munim, an AI assistant calling on behalf of {shop}. Your account shows {amount_words} outstanding.
+    Whenever it suits you, please let the shop know. If this looks wrong, please tell the shop.
