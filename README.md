@@ -1,5 +1,9 @@
 # MUNIM — a voice-native udhaar ledger that asks instead of guessing
 
+> **Demo video (3 min):** [Watch on Google Drive](https://drive.google.com/file/d/1DgIFqIDKvF-9Y2xNPO-yUGIRUL6yyNtb/view?usp=sharing) · [MUNIM_demo.mp4 in this repo](MUNIM_demo.mp4)
+>
+> **Solution pitch (1 page):** [MUNIM_Solution_Pitch.pdf](MUNIM_Solution_Pitch.pdf) · [View on Google Drive](https://drive.google.com/file/d/1Q8QFr9jNCers1Fu-KipfHT8gnWTyyrtB/view?usp=sharing)
+
 Kirana shopkeepers speak their khata ("Sharma ji ko dedh sau udhaar likh do"). Munim turns that into a
 tamper-evident ledger on Telegram, built on **Gnani Prisma v3.0 / v2.5 (STT)** and **Timbre v3.0 (TTS)**.
 The design rule: **an AI may propose, but code computes money, two ears must agree, and doubt becomes a question.**
